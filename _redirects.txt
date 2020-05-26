@@ -1,2 +1,2 @@
-/index     /home
+/index.php /home
 /login.php /login
