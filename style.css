@@ -2,7 +2,12 @@ body {
   background-image: url("https://buramhoney.eu/wp-content/uploads/2017/08/Honeycomb-Hexagon-940x480.jpg");
 }
 h1 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
   font-size: 30px;
   width: 100%;
   background-color: yellow;
