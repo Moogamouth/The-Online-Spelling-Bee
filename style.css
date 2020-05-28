@@ -4,7 +4,7 @@ body {
 header {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
-  width: 50%;
+  width: 100%;
   background-color: yellow;
   position: -webkit-sticky;
   position: sticky;
