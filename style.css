@@ -11,6 +11,8 @@ header {
   top: 0;
   padding: 1px;
 }
+h1 {
+  left: 30;
 h2 {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
