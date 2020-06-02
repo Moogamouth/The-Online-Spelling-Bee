@@ -1,2 +1,2 @@
-/index.html      /home/
-/login.html      /login/
+/index.html      /home/!
+/login.html      /login/!
