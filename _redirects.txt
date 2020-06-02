@@ -1,2 +1,2 @@
-/h.html /home
+/index.html /home
 /login.html /login
