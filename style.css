@@ -24,7 +24,5 @@ p {
 }
 a {
   text-decoration: none;
-  font-family: "Raleway", sans-serif;
-  font-size: 24px;
-  width: 100%;
+  color: black;
  }
