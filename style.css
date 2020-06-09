@@ -2,6 +2,7 @@ body {
   background-image: url("https://buramhoney.eu/wp-content/uploads/2017/08/Honeycomb-Hexagon-940x480.jpg");
 }
 header {
+  text-decoration: none;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
   width: 100%;
