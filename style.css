@@ -24,12 +24,5 @@ p {
 }
 a {
   text-decoration: none;
-  font-family: "Raleway", sans-serif;
-  font-size: 24px;
-  width: 100%;
-  background-color: yellow;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 1px;
+  color: red;
  }
