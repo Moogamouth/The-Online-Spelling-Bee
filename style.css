@@ -4,15 +4,11 @@ body {
 header {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
-  width: 100%;
+  width: 130%;
   background-color: yellow;
   position: -webkit-sticky;
   position: sticky;
-  top: 0;
   padding: 1px;
-}
-h1 {
-  left: 50px;
 }
 h2 {
   font-family: "Roboto", sans-serif;
