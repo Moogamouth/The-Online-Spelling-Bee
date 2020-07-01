@@ -36,7 +36,7 @@ a.button {
   border-style: outset;
 }
 
-space {
+.space {
   display: inline-block;
   margin-left: 30px;
 }
