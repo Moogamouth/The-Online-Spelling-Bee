@@ -34,7 +34,7 @@ div {
   background-color: white;
   padding: 1px;
   border-style: groove;
-  text-align: center;
+  margin: auto;
 }
 
 a {
