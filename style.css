@@ -36,6 +36,7 @@ a {
 
 a.button {
   border-style: outset;
+  border-color: lightgrey;
 }
 
 .space {
