@@ -1,15 +1,15 @@
 body {
   background-image: url("https://buramhoney.eu/wp-content/uploads/2017/08/Honeycomb-Hexagon-940x480.jpg");
 }
-}
-h1 {
-  font-size: 24px;
-  font-family: "Raleway", sans-serif;
+header {
   width: 100%;
   background-color: yellow;
   position: -webkit-sticky;
   position: sticky;
-  padding: 1px;
+}
+h1 {
+  font-size: 24px;
+  font-family: "Raleway", sans-serif;
 }
 h2 {
   font-family: "Roboto", sans-serif;
