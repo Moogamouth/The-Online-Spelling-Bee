@@ -2,7 +2,7 @@ body {
   background-image: url("https://buramhoney.eu/wp-content/uploads/2017/08/Honeycomb-Hexagon-940x480.jpg");
 }
 header {
-  width: 300%;
+  width: 100%;
   background-color: yellow;
   position: -webkit-sticky;
   position: sticky;
