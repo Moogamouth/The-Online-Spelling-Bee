@@ -6,6 +6,7 @@ header {
   background-color: yellow;
   position: -webkit-sticky;
   position: sticky;
+  padding: 100px;
 }
 h1 {
   font-size: 40px;
