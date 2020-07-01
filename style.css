@@ -31,8 +31,6 @@ p {
 div {
     width: 100%;
   background-color: yellow;
-  position: -webkit-sticky;
-  position: sticky;
   padding: 1px;
   border-style: groove;
   border-color: white;
