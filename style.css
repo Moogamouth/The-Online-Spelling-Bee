@@ -29,7 +29,7 @@ p {
   line-height: 2;
 }
 
-div {
+div.div {
   width: 90%;
   background-color: white;
   padding: 1px;
@@ -37,7 +37,7 @@ div {
   margin: auto;
 }
 
-.content {
+div.content {
   width: 80%;
   margin: auto;
 }
