@@ -10,6 +10,7 @@ header {
   padding: 2px;
   border-style: groove;
   border-color: white;
+  top: 0;
 }
 
 h1 {
@@ -29,7 +30,7 @@ p {
 }
 
 div {
-    width: 100%;
+  width: 100%;
   background-color: yellow;
   padding: 1px;
   border-style: groove;
