@@ -47,6 +47,10 @@ a {
   color: black;
  }
 
+a.link {
+  color: skyblue;
+}
+  
 a.hbutton {
   border-style: outset;
   border-color: lightgrey;
