@@ -51,6 +51,7 @@ a {
 a.button {
   border-style: outset;
   border-color: lightgrey;
+  padding: 1px;
 }
 
 .space {
