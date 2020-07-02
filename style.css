@@ -59,6 +59,7 @@ a.hbutton {
 }
 
 footer {
+  border-color: black;
   border-style: groove none none none;
   width: 100%;
   background-color: darkslateblue;
