@@ -70,6 +70,12 @@ input[type=text] {
   border-radius: 4px;
 }
 
+label {
+  font-family: Times New Roman, Times, serif;
+  font-size: 14px;
+  line-height: 2;
+}
+
 footer {
   border-color: black;
   border-style: groove none none none;
