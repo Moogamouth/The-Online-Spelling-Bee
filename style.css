@@ -72,7 +72,7 @@ input[type=text] {
 }
 
 input[type=submit] {
-  background-color: green;
+  background: rgba(0, 200, 0, 1);
   border-style: groove;
   border-color: lightgrey;
   border-radius: 4px;
