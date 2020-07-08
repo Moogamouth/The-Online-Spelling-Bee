@@ -64,6 +64,12 @@ a.hbutton {
   padding: 7px;
 }
 
+input[type=text] {
+  border-style: groove;
+  border-color: lightgrey;
+  border-radius: 4px;
+}
+
 footer {
   border-color: black;
   border-style: groove none none none;
