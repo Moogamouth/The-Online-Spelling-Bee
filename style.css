@@ -67,6 +67,7 @@ a.hbutton {
 input {
   display: block;
   margin: auto;
+}
 
 input[type=text] {
   border-color: lightgrey;
