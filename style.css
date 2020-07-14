@@ -1,15 +1,42 @@
+a {
+  color: black;
+  text-decoration: none;
+ }
+
+a.hbutton {
+  border-color: lightgrey;
+  border-style: outset;
+  padding: 7px;
+}
+
+a.link {
+  color: skyblue;
+}
+
 body {
   background-image: url("https://buramhoney.eu/wp-content/uploads/2017/08/Honeycomb-Hexagon-940x480.jpg");
 }
 
-header {
-  background-color: yellow;
-  border-color: white;
+div.content {
+  margin: auto;
+  width: 90%;
+}
+
+div.div {
+  background-color: white;
   border-style: groove;
+  margin: auto;
+  padding: 1px;
+  width: 90%;
+}
+
+footer {
+  background-color: darkslateblue;
+  border-color: black;
+  border-style: groove none none none;
+  box-shadow: 0px -3px 10px;
+  color: lightgrey;
   padding: 2px;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
   width: 100%;
 }
 
@@ -23,54 +50,15 @@ h2 {
   font-size: 24px;
 }
 
-p.p {
-  font-family: Times New Roman, Times, serif;
-  font-size: 14px;
-  line-height: 2;
-  text-indent: 50px;
-}
-
-p.noindent {
-  font-family: Times New Roman, Times, serif;
-  font-size: 14px;
-  line-height: 2;
-}
-
-div.div {
-  background-color: white;
+header {
+  background-color: yellow;
+  border-color: white;
   border-style: groove;
-  margin: auto;
-  padding: 1px;
-  width: 90%;
-}
-
-div.content {
-  margin: auto;
-  width: 90%;
-}
-
-a {
-  color: black;
-  text-decoration: none;
- }
-
-a.link {
-  color: skyblue;
-}
-  
-a.hbutton {
-  border-color: lightgrey;
-  border-style: outset;
-  padding: 7px;
-}
-
-input[type=text] {
-  border-color: lightgrey;
-  border-radius: 4px;
-  border-style: inset;
-  display: block;
-  margin: auto;
   padding: 2px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
 }
 
 input[type=submit] {
@@ -83,6 +71,15 @@ input[type=submit] {
   padding: 5px;
 }
 
+input[type=text] {
+  border-color: lightgrey;
+  border-radius: 4px;
+  border-style: inset;
+  display: block;
+  margin: auto;
+  padding: 2px;
+}
+
 label {
   font-family: Times New Roman, Times, serif;
   font-size: 14px;
@@ -91,16 +88,19 @@ label {
   margin: auto;
 }
 
-footer {
-  background-color: darkslateblue;
-  border-color: black;
-  border-style: groove none none none;
-  box-shadow: 0px -3px 10px;
-  color: lightgrey;
-  padding: 2px;
-  width: 100%;
+p {
+  font-family: Times New Roman, Times, serif;
+  font-size: 14px;
+  line-height: 2;
 }
- 
+
+p.p {
+  font-family: Times New Roman, Times, serif;
+  font-size: 14px;
+  line-height: 2;
+  text-indent: 50px;
+}
+
 .space {
   display: inline-block;
   margin-left: 10px;
