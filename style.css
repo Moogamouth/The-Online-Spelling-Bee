@@ -72,6 +72,7 @@ input[type=text] {
   border-color: lightgrey;
   border-radius: 4px;
   padding: 2px;
+  border-style: inset;
 }
 
 input[type=submit] {
@@ -88,6 +89,8 @@ label {
   font-family: Times New Roman, Times, serif;
   font-size: 14px;
   line-height: 2;
+  display: block;
+  margin: auto;
 }
 
 footer {
