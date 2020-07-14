@@ -5,17 +5,17 @@ body {
 header {
   background-color: yellow;
   border-color: white;
-  width: 100%;
+  border-style: groove;
+  padding: 2px;
   position: -webkit-sticky;
   position: sticky;
-  padding: 2px;
-  border-style: groove;
   top: 0;
+  width: 100%;
 }
 
 h1 {
-  font-size: 40px;
   font-family: Raleway, sans-serif;
+  font-size: 40px;
 }
 
 h2 {
@@ -37,21 +37,21 @@ p.noindent {
 }
 
 div.div {
-  width: 90%;
   background-color: white;
-  padding: 1px;
   border-style: groove;
   margin: auto;
+  padding: 1px;
+  width: 90%;
 }
 
 div.content {
-  width: 90%;
   margin: auto;
+  width: 90%;
 }
 
 a {
-  text-decoration: none;
   color: black;
+  text-decoration: none;
  }
 
 a.link {
@@ -59,28 +59,28 @@ a.link {
 }
   
 a.hbutton {
-  border-style: outset;
   border-color: lightgrey;
+  border-style: outset;
   padding: 7px;
 }
 
 input[type=text] {
   border-color: lightgrey;
   border-radius: 4px;
-  padding: 2px;
   border-style: inset;
   display: block;
   margin: auto;
+  padding: 2px;
 }
 
 input[type=submit] {
   background: rgba(0, 200, 0, 1);
-  border-style: groove;
   border-color: lightgrey;
   border-radius: 4px;
-  padding: 5px;
+  border-style: groove;
   font-family: Times New Roman, Times, serif;
   font-size: 14px;
+  padding: 5px;
 }
 
 label {
@@ -92,13 +92,13 @@ label {
 }
 
 footer {
+  background-color: darkslateblue;
   border-color: black;
   border-style: groove none none none;
-  width: 100%;
-  background-color: darkslateblue;
-  padding: 2px;
   box-shadow: 0px -3px 10px;
   color: lightgrey;
+  padding: 2px;
+  width: 100%;
 }
  
 .space {
