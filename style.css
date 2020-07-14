@@ -64,16 +64,13 @@ a.hbutton {
   padding: 7px;
 }
 
-input {
-  display: block;
-  margin: auto;
-}
-
 input[type=text] {
   border-color: lightgrey;
   border-radius: 4px;
   padding: 2px;
   border-style: inset;
+  display: block;
+  margin: auto;
 }
 
 input[type=submit] {
@@ -81,7 +78,7 @@ input[type=submit] {
   border-style: groove;
   border-color: lightgrey;
   border-radius: 4px;
-  padding: 2px;
+  padding: 5px;
   font-family: Times New Roman, Times, serif;
   font-size: 14px;
 }
