@@ -30,6 +30,10 @@ div.div {
   width: 90%;
 }
 
+div.input {
+  margin: auto;
+}
+
 footer {
   background-color: darkslateblue;
   border-color: black;
